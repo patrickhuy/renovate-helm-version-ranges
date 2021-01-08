@@ -1,0 +1,11 @@
+apiVersion: v2
+name: nginx-ingress-controller
+description: A Helm chart for nginx-ingress-controller for LP
+type: application
+version: 0.1.0
+appVersion: 6
+
+dependencies:
+  - name: nginx-ingress-controller
+    repository: https://charts.bitnami.com/bitnami
+    version: 6.*.*
