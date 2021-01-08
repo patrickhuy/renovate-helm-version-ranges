@@ -3,6 +3,8 @@
   "extends": [
     "config:base"
   ],
-  "lockFileMaintenance": { "enabled": true },
-  "versioning": "npm"
+  "helmv3": {
+    "versioning": "npm"
+    "lockFileMaintenance": { "enabled": true },
+  }
 }
