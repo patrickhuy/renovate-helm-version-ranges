@@ -5,6 +5,6 @@
   ],
   "helmv3": {
     "versioning": "npm",
-    "lockFileMaintenance": { "enabled": true },
+    "lockFileMaintenance": { "enabled": true }
   }
 }
