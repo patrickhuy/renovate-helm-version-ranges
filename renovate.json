@@ -4,7 +4,7 @@
     "config:base"
   ],
   "helmv3": {
-    "versioning": "npm"
+    "versioning": "npm",
     "lockFileMaintenance": { "enabled": true },
   }
 }
